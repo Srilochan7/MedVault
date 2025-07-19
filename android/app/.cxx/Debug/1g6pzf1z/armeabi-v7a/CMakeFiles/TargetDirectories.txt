@@ -1,0 +1,2 @@
+C:/Users/kalak/Downloads/Desktop/app/android/app/.cxx/Debug/1g6pzf1z/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/kalak/Downloads/Desktop/app/android/app/.cxx/Debug/1g6pzf1z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
